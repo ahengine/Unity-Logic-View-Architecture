@@ -3,7 +3,7 @@
 
 
 
-I designed an architectural pattern that I called View-Logic Architecture
+I designed an architectural pattern that I called Logic-View Architecture
 
 When you have a module like Leaderboard and your module has two sides.
 
