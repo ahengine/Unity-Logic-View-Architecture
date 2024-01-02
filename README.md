@@ -1,2 +1,2 @@
 # Unity View Logic Architecture
- This Architct Using these repos: UScreens, UPatterns, UHTTP
+ For Implement This sample of Logic-View Architct, I used these self-made packages: UScreens, UPatterns, UHTTP
